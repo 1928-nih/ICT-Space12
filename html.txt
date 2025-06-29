@@ -1,0 +1,207 @@
+<html>
+    <head>
+      <title>⭐Space Exploration🪐</title>
+       <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-image:url(https://garden.spoonflower.com/c/12926462/p/f/m/EYRAV41jX59TWNuuDFDau2yZTkkudRoHbV3AtcQ7EADtc72Bs9JcLBI/Solid%20Cream%20Linen.jpg);
+    }
+
+    h1 {
+      font-family: 'Orbitron', sans-serif;
+      color: #be9342;
+      text-shadow: 1px 1px 4px #39aca8;
+    }
+
+    img {
+      width: 100%;
+      max-width: 450px;
+      border-radius: 15px;
+      box-shadow: 0 4px 12px rgb(0, 204, 255);
+      margin: 15px 0;
+      transition: transform 0.3s ease;
+    }
+
+    img:hover {
+      transform: scale(1.03);
+    }
+     iframe {
+      width: 100%;
+      max-width: 560px;
+      border-radius: 15px;
+      box-shadow: 0 4px 12px rgb(47, 0, 255);
+      margin-top: 20px;
+    }
+
+
+        table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+      background-color: #1c1c2e;
+      border-radius: 10px;
+      overflow: hidden;
+    }
+
+    th,td {
+      border: 1px solid #9f1bc0;
+      padding: 12px;
+      text-align: center;
+      color: #ffe8c2;
+    }
+
+    th {
+      background-color: #37285a;
+      color: #b67628;
+    }
+  
+
+
+    a:hover {
+      text-decoration: underline;
+      color: #e7ad86;
+    }
+
+    ul {
+      list-style-type: square;
+      padding-left: 20px;
+    }
+       .section {
+      background-color: rgba(85, 0, 243, 0);
+      padding: 20px;
+      border-radius: 10px;
+      margin-bottom: 30px;
+    }
+
+    .gallery {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+
+  </style>
+    </head>
+    <body>
+<h1>⭐Space Exploration🪐</h1>
+<div class="gallery">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT62nm5r2UPxC49h14Za3uGGYADUCXxvIPl8g&s" 
+      alt="Space" >
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0KgjQilnJmM3vs4UhKzlWbAM5igC1V08mkw&s" 
+      alt="Plants">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzG-ou8U-J3H6cjL-xpGrQlC5Wgw7k2YYBDw&s"
+       alt="Space">
+      <img src="https://t3.ftcdn.net/jpg/01/32/36/62/360_F_132366202_h29Ryf57rEoh0GRLQQUHzNrSW3vWBEyj.jpg" 
+      alt="Plants" > 
+    </div>
+  <div class="section">
+    <h2>🎬 Watch a Space Launch</h2>
+    <iframe width="420" height="315" src="https://youtube.com/embed/upjF0Cce5rQ?si=wc5FIgT-0Zgc22UM"></iframe>  
+  
+  </div>
+  <div class="section">
+    <h2>🔗 Learn More</h2>
+    <ul>
+      <li><a href="https://www.nasa.gov" target="_blank">NASA Official Website</a></li>
+      <li><a href="https://solarsystem.nasa.gov" target="_blank">NASA Solar System Exploration</a></li>
+      <li><a href="https://www.spacex.com" target="_blank">SpaceX</a></li>
+    </ul>
+  </div>
+
+<p>
+
+ <u>🛸 What is Space?</u><br><br>
+Space is the vast, seemingly endless expanse that exists beyond Earth and its atmosphere. Its also
+ called outer space, and it begins about 100 km <br>above sea level—this line is known as the Kármán line.
+
+<br><br><u>🌠What’s in Space?</u><br>
+<ul>
+<li>Stars : Massive balls of burning gas (like our Sun) that produce heat and light.</li><br>
+<li>Planets : Like Earth, Mars, and Jupiter. They orbit stars.</li><br>
+
+<li>Moons: Natural satellites that orbit planets.</li>
+<br>
+<li>Asteroids & Comets : Small rocky or icy bodies floating in space.</li>
+<br>
+<li>Galaxies : Huge groups of stars, planets, and dust held together by gravity.</li> 
+<br>
+<li>Black Holes : Extremely dense regions with strong gravity that not even light can escape.</li> 
+<br>
+ <li>Nebulae : Colorful clouds of gas and dust, often where stars are born.</li> 
+<br>
+<li>Dark Matter & Dark Energy : Mysterious stuff that makes up most of the universe!</li>
+</ul>
+<br><br>
+<u>🔭Fun Space Facts:</u><br><br>
+<ul>
+<li>Space is completely silent because there’s no air to carry sound.</li>
+<br>
+<li>The Sun is so big that about 1.3 million Earths could fit inside it.</li>
+<br>
+<li>A day on Venus is longer than its year!</li>
+<br>
+<li>Neil Armstrong was the first person to walk on the Moon in 1969.</li>
+<br>
+<li>The Milky Way (our galaxy) has over 100 billion stars.</li>
+</ul>
+<br><br>
+💭<u> Why Space Is Important?</u><br><br>
+<ul>
+<li>Helps us understand how the universe began.</li>
+<br>
+<li>Technology from space research (like satellites) helps with communication, weather forecasts, and GPS.</li>
+<br>
+<li>It inspires curiosity, science, and imagination!</li>
+</ul>
+ </p>
+
+
+
+<br><br>
+<a href="https://en.wikipedia.org/wiki/Space" > 🪐Click Me And Get Information On Space!🪐</a>
+<br><br>
+<h3>⭐🪐The Best Astronots In The World🪐⭐</h3>
+ 
+<table border="1">
+  <tr>
+    <th>No.</th>
+    <th>Name</th>
+    <th>Country of Orgin</th>
+    <th>Space Agency</th>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>Kalpana Chawla</td>
+    <td>India</td>
+    <td>NASA</td>
+    </tr>
+  <tr>
+    <td>2.</td>
+    <td>Yuri Gagarin</td>
+    <td>Soviet Union(Russia)</td>
+     <td>Soviet Space Program</td>
+  </tr>
+  <tr>
+     <td>3.</td>
+    <td>Alan Shepard</td>
+    <td>United States</td>
+    <td>NASA</td>
+  </tr>
+  <tr>
+    <td>4.</td>
+    <td>Neil Armstrong</td>
+    <td>United States</td>
+    <td>NASA</td>
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td>Valentina Tereshkova</td>
+    <td>Soviet Union (Russia)</td>
+    <td>Soviet Space Program</td>
+  </tr>
+</table>
+</body>
+</html>
+    </body>
+</html>
